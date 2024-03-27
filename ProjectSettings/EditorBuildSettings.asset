@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene/Menu.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scene/ZihanScene.unity
     guid: 53052182f076ecf44aaa1e9429ae571e
+  - enabled: 1
+    path: Assets/Scene/KunScene.unity
+    guid: da21b9e02d45b6a4398de6eff9b7642f
   m_configObjects: {}
